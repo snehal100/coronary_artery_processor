@@ -16,3 +16,8 @@ data/processed/*
 !data/processed/.gitkeep
 models/*.pt
 models/*.onnx
+# Local datasets
+data/raw/
+data/**/*.png
+data/**/*.jpg
+data/**/*.jpeg
