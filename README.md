@@ -216,9 +216,7 @@ coronary_artery_processor/
 └── docs/
 ```
 
-## License
 
-MIT (see LICENSE).
 
 ## Disclaimer
 
